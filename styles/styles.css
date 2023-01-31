@@ -12,7 +12,7 @@ html {
 }
  @font-face {
     font-family: Oswald; 
-    src: url(../Senna-site/fonts/Oswald-VariableFont_wght.ttf); 
+    src: url(Senna-site/fonts/Oswald-VariableFont_wght.ttf); 
 }
 header img {
     width: 100px;
